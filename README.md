@@ -1,11 +1,14 @@
-# If Bootstrap 4 Breakpoint do something
-Detect Bootstrap 4 breakpoints to run conditional scripts and functions
+# If Bootstrap 5/4/3 Breakpoint do something
+Detect Bootstrap 5/4/3 breakpoints to run conditional scripts and functions
+
+Bootstrap 5
+`<script src='if-b5-breakpoint.min.js'></script>`
 
 Bootstrap 4
-`<script src='https://cdn.rawgit.com/JacobLett/IfBreakpoint/e9fcd4fd/if-b4-breakpoint.min.js'></script>`
+`<script src='if-b4-breakpoint.min.js'></script>`
 
 Bootstrap 3
-`<script src='https://cdn.rawgit.com/JacobLett/IfBreakpoint/e9fcd4fd/if-b3-breakpoint.min.js'></script>`
+`<script src='if-b3-breakpoint.min.js'></script>`
 
 
 ### Are you extra-small?
